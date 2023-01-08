@@ -1,0 +1,19 @@
+id: A2F550489
+title: Petitionary Offering to Norbu Dradül Tsal
+type: translation
+pechas:
+- ICCD880BF
+- IBCDBCDDD
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:10:49.915902
+  last_modified_at: 2023-01-04 12:10:49.915911
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  ICCD880BF/1819: 6E0C
+  IBCDBCDDD/9FB5: 6E0C
